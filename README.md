@@ -1,4 +1,4 @@
-# 📏 Cervical Dilation Measurement using OpenCV & Kivy
+# 📏 Dilation Measurement using OpenCV & Kivy
 
 **Project Name:** Project_IEEE_Hackathon_Cervical Dilation Measurement  
 
